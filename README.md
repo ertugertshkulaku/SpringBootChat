@@ -1,2 +1,2 @@
-# AngularChat
+# SpringBootChat
 CHAT APPLICATION
